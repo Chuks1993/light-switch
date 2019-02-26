@@ -1,13 +1,13 @@
 {
-  "main.css": "/Chuks1993/light-switch.git/static/css/main.bec4e8c1.chunk.css",
-  "main.js": "/Chuks1993/light-switch.git/static/js/main.5e1974f0.chunk.js",
-  "main.js.map": "/Chuks1993/light-switch.git/static/js/main.5e1974f0.chunk.js.map",
-  "runtime~main.js": "/Chuks1993/light-switch.git/static/js/runtime~main.15b20973.js",
-  "runtime~main.js.map": "/Chuks1993/light-switch.git/static/js/runtime~main.15b20973.js.map",
-  "static/js/2.015ea03c.chunk.js": "/Chuks1993/light-switch.git/static/js/2.015ea03c.chunk.js",
-  "static/js/2.015ea03c.chunk.js.map": "/Chuks1993/light-switch.git/static/js/2.015ea03c.chunk.js.map",
-  "index.html": "/Chuks1993/light-switch.git/index.html",
-  "precache-manifest.621dddd29ba3e8817c1055a971fee13c.js": "/Chuks1993/light-switch.git/precache-manifest.621dddd29ba3e8817c1055a971fee13c.js",
-  "service-worker.js": "/Chuks1993/light-switch.git/service-worker.js",
-  "static/css/main.bec4e8c1.chunk.css.map": "/Chuks1993/light-switch.git/static/css/main.bec4e8c1.chunk.css.map"
+  "main.css": "/light-switch/static/css/main.bec4e8c1.chunk.css",
+  "main.js": "/light-switch/static/js/main.5e1974f0.chunk.js",
+  "main.js.map": "/light-switch/static/js/main.5e1974f0.chunk.js.map",
+  "runtime~main.js": "/light-switch/static/js/runtime~main.f1708f7d.js",
+  "runtime~main.js.map": "/light-switch/static/js/runtime~main.f1708f7d.js.map",
+  "static/js/2.015ea03c.chunk.js": "/light-switch/static/js/2.015ea03c.chunk.js",
+  "static/js/2.015ea03c.chunk.js.map": "/light-switch/static/js/2.015ea03c.chunk.js.map",
+  "index.html": "/light-switch/index.html",
+  "precache-manifest.ba29aac7440a360e6f61fe463c291415.js": "/light-switch/precache-manifest.ba29aac7440a360e6f61fe463c291415.js",
+  "service-worker.js": "/light-switch/service-worker.js",
+  "static/css/main.bec4e8c1.chunk.css.map": "/light-switch/static/css/main.bec4e8c1.chunk.css.map"
 }

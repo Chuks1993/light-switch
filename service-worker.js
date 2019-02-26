@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Chuks1993/light-switch.git/precache-manifest.621dddd29ba3e8817c1055a971fee13c.js"
+  "/light-switch/precache-manifest.ba29aac7440a360e6f61fe463c291415.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Chuks1993/light-switch.git/index.html", {
+workbox.routing.registerNavigationRoute("/light-switch/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
