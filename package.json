@@ -2,7 +2,7 @@
   "name": "light-switch",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Chuks1993/light-switch.git",
+  "homepage": "https://chuks1993.github.io/light-switch/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
